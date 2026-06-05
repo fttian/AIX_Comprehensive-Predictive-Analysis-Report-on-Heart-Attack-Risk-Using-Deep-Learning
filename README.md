@@ -92,6 +92,7 @@ Both networks were trained across a maximum of 50 epochs utilizing the `Adam` op
 
 ```
 <img width="1165" height="470" alt="image" src="https://github.com/user-attachments/assets/75825b02-4698-4563-a6f1-7c8125c718cd" />
+<img width="1165" height="470" alt="image" src="https://github.com/user-attachments/assets/304fb97e-fa7f-46b1-a4a6-14b23e116811" />
 
 > **Analysis:** The training curves show that the Residual MLP has too much capacity for this specific dataset. It rapidly memorizes the statistical variations of the training sample split (overfitting) without mapping generalizable boundaries for unseen validation records.
 
