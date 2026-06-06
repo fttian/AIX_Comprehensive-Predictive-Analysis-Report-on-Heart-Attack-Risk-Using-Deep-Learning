@@ -1,7 +1,7 @@
 # Comprehensive Predictive Analysis Report on Heart Attack Risk Using Deep Learning
 
 **Dataset Source:** [Kaggle Heart Attack Prediction Dataset](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/heart-attack-prediction-dataset)
-
+**Members:** 범유가, 무용학과, fttian9@naver.com
 ---
 
 ## 1. Executive Summary
